@@ -1,0 +1,12 @@
+addon core version 4.107.0.0
+addon language version 4.106.1.0
+
+program calc
+window ✱calculator✱ style maximize
+keyboard ‴2+2=‴ 
+delay 2
+keyboard ‴5-7=‴
+delay 2
+keyboard ‴12/6=‴
+delay 2
+keyboard ‴63-52+85=‴
