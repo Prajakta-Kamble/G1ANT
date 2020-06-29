@@ -1,0 +1,10 @@
+addon python version 4.1.0.0
+addon core version 4.107.0.0
+addon language version 4.106.1.0
+
+-Write a program that uses input to prompt a user for their name and then welcomes them. Note that input will pop up a dialog box. Enter Sarah in the pop-up box when you are prompted.
+
+program python
+keyboard ‴name = input("Enter your name") ⋘enter⋙‴
+keyboard ‴ Sarah ⋘enter⋙‴
+keyboard ‴print ("Hello",name) ⋘enter⋙‴

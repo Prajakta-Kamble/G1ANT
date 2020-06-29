@@ -1,0 +1,14 @@
+addon python version 4.1.0.0
+addon core version 4.107.0.0
+addon language version 4.106.1.0
+
+-Write a program to prompt the user for hours and rate per hour using input to compute gross pay. 
+-Use 35 hours and a rate of 2.75 per hour to test the program (the pay should be 96.25).
+
+program python
+keyboard ‴hrs = float(input("Enter Hours:")) ⋘enter⋙‴
+keyboard ‴35 ⋘enter⋙‴
+keyboard ‴rate = float(input("Enter Rate:")) ⋘enter⋙‴
+keyboard ‴2.75 ⋘enter⋙‴
+keyboard ‴pay= hrs*rate ⋘enter⋙‴
+keyboard ‴print ("Pay:",pay) ⋘enter⋙‴ 

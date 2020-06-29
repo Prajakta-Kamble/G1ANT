@@ -1,0 +1,8 @@
+addon python version 4.1.0.0
+addon core version 4.107.0.0
+addon language version 4.106.1.0
+
+-Write a simple Hello world program in python.
+
+program python
+keyboard ‴print("Hello World") ⋘ENTER⋙‴
